@@ -3,8 +3,8 @@
 프로젝트 핵심 기술(설계 주안점)<br>
 VCM형식의 CRUD기능응용 및 API 활용<br>
 구현도구 - jquery, mybatis, apache tomcat, oracle DB, eclipse, bootstrap, maven, java
-<br><br>
-<h4>구현기능</h4><br>
+<hr><br><br>
+<h3>구현기능</h3>
 <h4>메인 페이지</h4>
 상단 메뉴에서 로고, BEST, SALE, TOP, BOTTOM, OUTER, BOARD, 로그인 및 회원가입, 장바구니를 볼 수 있다.<br>
 로고는 클릭 시 메인 페이지로, 각각의 메뉴는 해당 페이지로 이동할 수 있다.<br>
