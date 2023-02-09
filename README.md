@@ -1,6 +1,5 @@
-# intermediate-project<br>
-<p>포트폴리오 바로가기 링크</><br>
-https://www.daeguoracle.com/homeGallery/hpGalleryDetail?tableNm=hp_pofol&boardType=&crsId=0&instId=0&menuCtgr=&bbsId=190#
+# middle-project<br>
+
 <h2>여성, 남성 의류 쇼핑몰 입니다.</h2><br>
 프로젝트 핵심 기술(설계 주안점)<br>
 VCM형식의 CRUD기능응용 및 API 활용<br>
