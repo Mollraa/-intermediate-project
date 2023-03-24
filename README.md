@@ -6,4 +6,4 @@ MyBatis를 이용한 DB연동 데이터 처리와 Tiles를 통한 Front_end단 �
 활용하여 평소 익숙하게 써온 기능들을 직접 개발해 구현해 내는 것이 프로젝트의 목표입니다.</p>
 <p><h4> - (개발기간)</h4>2022.09.19.~2022.10.04.</p>
 <p><h4> - (개발 툴/언어)</h4> Java, MyBatis, HTML/CSS, JavaScript, OracleDB, IDE(Eclipse, Visual Studio Code), Jquery, Bootstrap, Github, Lombok, Apache Tomcat, Tiles</p>
- <p><h4> - (역할) MVC2 패턴을 기반으로 팀원으로서 고객 DB설계, 회원가입, 로그인, 로그아웃, 회원탈퇴, 마이페이지 회원정보 조회, 수정, 구매내역 주문조회 및 프로젝트 발표를 맡았습니다.</p>
+ <p><h4> - (역할)</H4> MVC2 패턴을 기반으로 팀원으로서 고객 DB설계, 회원가입, 로그인, 로그아웃, 회원탈퇴, 마이페이지 회원정보 조회, 수정, 구매내역 주문조회 및 프로젝트 발표를 맡았습니다.</p>
